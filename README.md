@@ -3,6 +3,8 @@
 #### Project Overview
 This project is a backend application focused on enabling users to share and view trending news. Developed using Java Spring Boot 3 and Maven, the system is designed to provide a platform where users can publish, browse, and manage trending news articles. The project integrates various technologies to enhance performance and scalability.
 
+![Example Image](Image/project2.png)
+
 #### Technologies and Tools
 - **Java**: The primary programming language, offering robust object-oriented support and a wide range of enterprise development tools.
 - **Spring Boot 3**: Simplifies configuration and development processes, improving overall development efficiency.
